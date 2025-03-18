@@ -11,7 +11,9 @@ Check back later, it should be posted by 9:15pm, Saturday, March 22. Keep checki
 # (4) 9:15 Guarantee
 Barring unforseen circumstances, we intend to upload our data by 9:15pm on the first day of a competition.
 
-We don't guarentee perfect data but it should be good enough
+We don't guarentee perfect data but it should be good enough.
+
+We intend on posting scouting data first and pit scouting data might be uploaded later.
 
 # How to access the data
 
