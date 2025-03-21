@@ -38,4 +38,5 @@ To try it out go to [https://finnspartronics.github.io/Orpheus/index.html](https
 Try it out with our Sammamish data using the .orpheus settings file in the 2025WASAM directory.
 
 For more information and a brief tutorial on how to use Orpheus, check out this video:
-# insert video here once it's uploaded
+[https://youtu.be/qJIEP9aM6Ks?si=TwylPn6Of__sAE0f](https://youtu.be/qJIEP9aM6Ks?si=TwylPn6Of__sAE0f )
+
