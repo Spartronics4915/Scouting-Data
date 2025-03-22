@@ -42,3 +42,4 @@ Try it out with our Sammamish data using the .orpheus settings file in the 2025W
 For more information and a brief tutorial on how to use Orpheus, check out this video:
 [https://youtu.be/qJIEP9aM6Ks?si=TwylPn6Of__sAE0f](https://youtu.be/qJIEP9aM6Ks?si=TwylPn6Of__sAE0f )
 
+If you notice anything that seems wrong with Orpheus, like a bug or glitch, if you could put it on an issue on the [Orpheus repository](https://github.com/FinnSpartronics/Orpheus) or ping `@slothh__` in the PNW FRC Discord, or let any other member of Spartronics know, that would be greatly appreciated
