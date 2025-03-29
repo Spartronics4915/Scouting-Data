@@ -1,15 +1,17 @@
 # Scouting Data
 A collection of our scouting data at various competitions.
-| Event | Event code |
-| --- | --- |
-| 2025 Sammamish | 2025WASAM | 
-| 2025 Auburn | 2025WAAHS | 
+| Event | Event code | Other notes |
+| --- | --- | --- | 
+| 2025 Sammamish | 2025WASAM |  |
+| 2025 Auburn | 2025WAAHS |  |
+| 2025 Pacific Northwest FIRST District Championship | 2025PNCMP | Data might be incomplete |
 
-# 2025 Auburn Data is available!
-Match data, pit data, and a .orpheus file
+# 2025 Pacific Northwest FIRST District Championship
+We plan on uploading our data but we are currently awaiting permission from our scouting alliance partners regarding whether or not their data can be uploaded.
+Uploaded data may be incomplete. Barring unforseen circumstances, it'll be uploaded on both Thursday and Friday night by 7:15pm (districts ends 2 hours earlier than other competitions so the 9:15 guarentee is 2 hours earlier)
 
 # (4) 9:15 Guarantee
-Barring unforseen circumstances, we intend to upload our data by 9:15pm on the first day of a competition.
+Barring unforseen circumstances, we intend to upload our data by 9:15pm on the advertised days of competition.
 
 If data will be posted late or missing, it'll be mentioned somewhere on here before 9:15.
 
