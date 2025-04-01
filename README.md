@@ -4,11 +4,12 @@ A collection of our scouting data at various competitions.
 | --- | --- | --- | 
 | 2025 Sammamish | 2025WASAM |  |
 | 2025 Auburn | 2025WAAHS |  |
-| 2025 Pacific Northwest FIRST District Championship | 2025PNCMP | Data might be incomplete |
+| 2025 Pacific Northwest FIRST District Championship | 2025PNCMP | Scouting alliance with **2412 Robototes** and **4512 Otter Chaos** |
 
 # 2025 Pacific Northwest FIRST District Championship
-We plan on uploading our data but we are currently awaiting permission from our scouting alliance partners regarding whether or not their data can be uploaded.
-Uploaded data may be incomplete. Barring unforseen circumstances, it'll be uploaded on both Thursday and Friday night by 7:15pm (districts ends 2 hours earlier than other competitions so the 9:15 guarentee is 2 hours earlier)
+Since Districts ends 2 hours earlier than most other competitions, we'll upload our data on Thursday and Friday night by 7:15pm instead of 9:15pm.
+
+We are in a scouting alliance with **2412 Robototes and 4512 Otter Chaos**. Robototes is contributing most of the data on the Blue Alliance and Otter Chaos is also contributing data on the blue alliance. Huge shout-out to these teams, this data would not be available without them <3
 
 # (4) 9:15 Guarantee
 Barring unforseen circumstances, we intend to upload our data by 9:15pm on the advertised days of competition.
