@@ -9,6 +9,8 @@ A collection of our scouting data at various competitions.
 # 2025 Pacific Northwest FIRST District Championship
 Our full pit scouting data is uploaded, as well as matches 1-30. Some robots may have duplicate data
 
+### We are waiting for our alliance partners to send us their data
+
 Since Districts ends 2 hours earlier than most other competitions, we'll upload our data on Thursday and Friday night by 7:15pm instead of 9:15pm.
 
 We are in a scouting alliance with **2412 Robototes and 4512 Otter Chaos**. Robototes is contributing most of the data on the Blue Alliance and Otter Chaos is also contributing data on the blue alliance. Huge shout-out to these teams, this data would not be available without them <3
