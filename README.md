@@ -7,9 +7,7 @@ A collection of our scouting data at various competitions.
 | 2025 Pacific Northwest FIRST District Championship | 2025PNCMP | Scouting alliance with **2412 Robototes** and **4512 Otter Chaos** |
 
 # 2025 Pacific Northwest FIRST District Championship
-Our full pit scouting data is uploaded, as well as matches 1-30. Some robots may have duplicate data
-
-### We are waiting for our alliance partners to send us their data
+Our full pit scouting data is uploaded as well as matches 1-85. Some robots may have duplicate data
 
 Since Districts ends 2 hours earlier than most other competitions, we'll upload our data on Thursday and Friday night by 7:15pm instead of 9:15pm.
 
